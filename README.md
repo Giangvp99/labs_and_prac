@@ -1,3 +1,3 @@
-Нгуен Чыонг Жанг ИУ3и-31Б
+#Нгуен Чыонг Жанг ИУ3и-31Б
 
-view prac: https://giangvp99.github.io/labs_and_prac/
+view prac: https://giangvp99.github.io/labs_and_prac/index.html
